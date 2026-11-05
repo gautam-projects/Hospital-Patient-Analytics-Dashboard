@@ -126,7 +126,7 @@ This project demonstrates how Power BI can be used to convert healthcare data in
 **Skills Demonstrated:** Data Cleaning | Power Query | DAX | Data Modeling | Data Analysis | Power BI Dashboard Development
 
 Screenshot / Demmos
-![Monthly Dashboard](images/Healthcare_page_1.png)
+![Monthly Dashboard]([images/Healthcare_page_1.png](https://github.com/gautam-projects/Hospital-Patient-Analytics-Dashboard/blob/main/Healthcare_page_1.png))
 
 ---
 
